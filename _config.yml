@@ -2,7 +2,7 @@ title: "EcoNIb"
 description: "Ecological Niche Modelling in Iberia research group"
 theme: jekyll-theme-minimal
 navigation:
-  - title: "Index"
+  - title: "Home"
     url: /
   - title: "Members"
     url: /members/
