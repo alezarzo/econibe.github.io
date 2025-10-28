@@ -1,0 +1,13 @@
+title: "EcoNib"
+description: "Ecological Niche Modelling in Iberia research group"
+navigation:
+  - title: "Index"
+    url: /index.md
+  - title: "Members"
+    url: /members.md
+  - title: "Publications"
+    url: /publications.md
+  - title: "Projects"
+    url: /projects.md
+  - title: "Contact"
+    url: /contact.md
