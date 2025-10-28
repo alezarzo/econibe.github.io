@@ -3,7 +3,7 @@ description: "Ecological Niche Modelling in Iberia research group"
 theme: jekyll-theme-minimal
 navigation:
   - title: "Index"
-    url: /index/
+    url: /
   - title: "Members"
     url: /members/
   - title: "Publications"
