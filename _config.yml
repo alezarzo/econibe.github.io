@@ -1,6 +1,6 @@
-theme: jekyll-theme-minimal
 title: "EcoNib"
 description: "Ecological Niche Modelling in Iberia research group"
+theme: jekyll-theme-minimal
 navigation:
   - title: "Index"
     url: /index.md
