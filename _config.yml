@@ -1,6 +1,6 @@
 title: "EcoNIb"
 description: "Ecological Niche Modelling in Iberia research group"
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+theme: jekyll-theme-minimal
 navigation:
   - title: "Home"
     url: /
