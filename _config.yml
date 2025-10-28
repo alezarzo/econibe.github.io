@@ -3,12 +3,12 @@ description: "Ecological Niche Modelling in Iberia research group"
 theme: jekyll-theme-minimal
 navigation:
   - title: "Index"
-    url: /index.md
+    url: /index/
   - title: "Members"
-    url: /members.md
+    url: /members/
   - title: "Publications"
-    url: /publications.md
+    url: /publications/
   - title: "Projects"
-    url: /projects.md
+    url: /projects/
   - title: "Contact"
-    url: /contact.md
+    url: /contact/
