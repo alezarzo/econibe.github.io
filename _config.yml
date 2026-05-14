@@ -1,14 +1,4 @@
 title: "EcoNIbe"
 description: "Ecological Niche Modelling in Iberia research group"
 remote_theme: mmistakes/minimal-mistakes
-navigation:
-  - title: "Home"
-    url: /
-  - title: "Members"
-    url: /members/
-  - title: "Publications"
-    url: /publications/
-  - title: "Projects"
-    url: /projects/
-  - title: "Contact"
-    url: /contact/
+plugins: jekyll-include-cache
