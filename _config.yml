@@ -1,4 +1,5 @@
 title: "EcoNIbe"
 description: "Ecological Niche Modelling in Iberia research group"
 remote_theme: mmistakes/minimal-mistakes
-plugins: jekyll-include-cache
+plugins:
+  - jekyll-include-cache
