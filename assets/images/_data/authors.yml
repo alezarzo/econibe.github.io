@@ -1,7 +1,14 @@
 eco:
   name: "EcoNIbe"
   avatar: "/assets/images/Serbia2.jpeg"
-  bio: "Ecological niche modelling and biodiversity research across the Iberian Peninsula."
+  bio: "
+
+*Junior Leader postdoctoral researcher La Caixa Foundation*
+
+*Center for Ecology, Evolution and Environmental Changes*
+
+*Sciences faculty, Universidade de Lisboa*"
+
   location: "Iberia"
   links:
     - label: "GitHub"
