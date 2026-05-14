@@ -7,6 +7,9 @@ permalink: /
 # EcoNIbe
 **Ecological Niche Modelling in Iberia research group**
 
+assets/images/Serbia2.jpeg
+
+
 ## 🌍 Research focus
 - Species distribution models (SDMs)
 - Carnivore ecology and distribution
