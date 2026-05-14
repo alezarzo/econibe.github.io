@@ -1,11 +1,11 @@
 ---
 layout: splash
 title: "EcoNIbe"
+author_profile: true
 header:
   overlay_image: /assets/images/Tanzania.jpg
   overlay_filter: 0.45
-  caption: "Alejandra Zarzo Arias"
-author_profile: true
+  caption: ""
 ---
 
 # 
