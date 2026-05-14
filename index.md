@@ -2,7 +2,7 @@
 layout: splash
 title: "EcoNIbe"
 header:
-  overlay_image: /assets/images/Tanzania.jpeg
+  overlay_image: /assets/images/Tanzania.jpg
   overlay_filter: 0.45
   caption: "Alejandra Zarzo Arias"
 permalink: /
