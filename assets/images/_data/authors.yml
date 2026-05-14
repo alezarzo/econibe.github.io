@@ -1,0 +1,9 @@
+eco:
+  name: "EcoNIbe"
+  avatar: "/assets/images/Serbia2.jpeg"
+  bio: "Ecological niche modelling and biodiversity research across the Iberian Peninsula."
+  location: "Iberia"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/"
