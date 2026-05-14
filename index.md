@@ -2,13 +2,13 @@
 layout: splash
 title: "EcoNIbe"
 header:
-  overlay_image: /assets/images/Serbia2.jpeg
+  overlay_image: /assets/images/Tanzania.jpeg
   overlay_filter: 0.45
   caption: "Alejandra Zarzo Arias"
 permalink: /
 ---
 
-# EcoNIbe
+# 
 **Ecological Niche Modelling in Iberia research group**
 
 
