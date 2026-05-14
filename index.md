@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: "EcoNIbe"
 author: eco
 author_profile: true
