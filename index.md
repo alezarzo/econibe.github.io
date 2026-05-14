@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "EcoNib"
+title: "EcoNIbe"
 permalink: /
 ---
 
-# EcoNib
+# EcoNIbe
 **Ecological Niche Modelling in Iberia research group**
