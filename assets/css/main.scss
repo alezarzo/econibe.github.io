@@ -1,9 +1,19 @@
 ---
 ---
-.author__avatar img {
+
+.sidebar .author__avatar {
+  width: 180px;
+  height: 180px;
+  margin: 0 auto 15px auto;
+}
+
+.sidebar .author__avatar img {
   width: 180px;
   height: 180px;
   border-radius: 50%;
-  border: 3px solid #ddd;
-  padding: 3px;
+  object-fit: cover;
+}
+
+.sidebar .author__content {
+  text-align: center;
 }
