@@ -1,7 +1,13 @@
 eco:
   name: "Alejandra Zarzo Arias"
   avatar: "/assets/images/Serbia2.jpeg"
-    
+  bio: >
+    <div style="text-align:center; font-size:0.95em; line-height:1.6;">
+      Junior Leader postdoctoral researcher, La Caixa Foundation.<br>
+      InWild research group<br>
+      CE3C, Universidade de Lisboa<br>
+      Faculty of Sciences, Universidade de Lisboa
+    </div>  
   links:
     - label: "ce3c"
       icon: "fab fa-github"
