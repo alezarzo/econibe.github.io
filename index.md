@@ -1,15 +1,16 @@
 ---
-layout: page
+layout: splash
 title: "EcoNIbe"
+header:
+  overlay_image: /assets/images/Serbia2.jpeg
+  overlay_filter: 0.45
+  caption: "Alejandra Zarzo Arias"
 permalink: /
 ---
 
 # EcoNIbe
 **Ecological Niche Modelling in Iberia research group**
-header:
-  overlay_image: /assets/images/Serbia2.jpeg
-  overlay_filter: 0.45
-  caption: "Alejandra Zarzo Arias"
+
 
 *Junior Leader postdoctoral researcher*
 *La Caixa Foundation*
