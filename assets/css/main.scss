@@ -1,0 +1,19 @@
+---
+---
+
+.sidebar .author__avatar {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.sidebar .author__avatar img {
+  width: 190px;
+  height: 190px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.sidebar .author__content {
+  text-align: center;
+}
