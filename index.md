@@ -9,7 +9,7 @@ permalink: /
 
 ## 🌍 Research focus
 - Species distribution models (SDMs)
-- Climate and environmental gradients
+- Carnivore ecology and distribution
 - Iberian biodiversity integration (Spain + Portugal)
 
 
