@@ -1,7 +1,11 @@
 eco:
   name: "Alejandra Zarzo Arias"
   avatar: "/assets/images/Serbia2.jpeg"
-
+ bio: >
+    Junior Leader postdoctoral researcher, La Caixa Foundation.  
+    InWild research group.  
+    Center for Ecology, Evolution and Environmental Changes (CE3C), Universidade de Lisboa.  
+    Faculty of Sciences, Universidade de Lisboa
 
   links:
     - label: "ce3c"
