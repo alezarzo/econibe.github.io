@@ -12,9 +12,10 @@ permalink: /
 **Ecological Niche Modelling in Iberia research group**
 
 
-*Junior Leader postdoctoral researcher*
-*La Caixa Foundation*
+*Junior Leader postdoctoral researcher La Caixa Foundation*
+
 *Center for Ecology, Evolution and Environmental Changes*
+
 *Sciences faculty, Universidade de Lisboa*
 
 ## 🌍 Research focus
