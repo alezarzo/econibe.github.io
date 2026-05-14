@@ -7,6 +7,7 @@ header:
   caption: ""
 author: eco
 author_profile: true
+classes: wide
 ---
 
 I am a "La Caixa" Junior Leader Postdoc in the Conservation Ecology & Society group at CE3C. My research focuses on testing, improving and applying Species Distribution Models (SDMs) to many species at different spatial scales. 
