@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: "EcoNIbe"
+author: eco
 author_profile: true
 header:
   overlay_image: /assets/images/Tanzania.jpg
