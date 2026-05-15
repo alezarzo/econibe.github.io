@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Members"
-permalink: /members/
+title: "People"
+permalink: /people/
 ---
 
 ## EcoNIb team
