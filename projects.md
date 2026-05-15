@@ -15,24 +15,24 @@ The <a href="https://becarios.fundacionlacaixa.org/en/web/guest/fellows/alejandr
     </a> project aims to integrate biotic interactions (such as predation and competition) into SDMs for carnivores, with the goal of producing more accurate predictions to inform and support effective conservation strategies, focusing in the Iberian Peninsula.
 
 
-### Iberia-ENV: Species Distribution Modelling Framework
+### IBERENV: Database of environmental variables for the Iberian Peninsula at 10km and 1km
 
-Project focused on ecological niche modelling and biodiversity forecasting in Iberian ecosystems.
+We are currently developing a pool of variables at a 10km and 1km grid resolution for the entire Iberian Peninsula related to:
 
-- SDM workflows in R and Python
-- Climate change projections
-- High-resolution environmental layers
-- Validation with field data
+- Topography
+- Land use and structure
+- Human footprint
+- Climate
+- Soil
 
 ---
 
-### Camera trap monitoring (Cantabrian region)
+### Camera trap monitoring of the stoat (Mustela erminea)
 
-Wildlife monitoring using camera trap networks to study medium and large mammals.
+Wildlife monitoring using camera trap networks to study and update the distribution and knowledge of the stoat in the Cantabrian Mountains and the Pyrenees. We will focus on:
 
-- Occupancy models
-- Temporal activity patterns
-- Habitat use analysis
+- Developing SDMs with prey distribution
+- Sample with camera and mostela traps grids with high predicted probability of presence
 
 ---
 
