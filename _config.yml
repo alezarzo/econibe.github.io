@@ -6,3 +6,9 @@ plugins:
 minimal_mistakes_skin: "default"
 url: "https://alezarzo.github.io"
 baseurl: "/econibe.github.io"
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
