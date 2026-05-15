@@ -1,12 +1,14 @@
 eco:
   name: "Alejandra Zarzo Arias"
   avatar: "/assets/images/Serbia2.jpeg"
+  
   bio: >
   Junior Leader postdoctoral researcher, La Caixa Foundation.
   InWild research group, ce3c.
+  
   links:
     - label: "Cantabrian Brown Bear and Otter Research Group"
-      icon: "fab fa-bear"
+      icon: "fab fa-paw"
       url: "https://www.cantabrianbrownbear.org/"
     - label: "Google Scholar"
       icon: "fab fa-graduation-cap"
