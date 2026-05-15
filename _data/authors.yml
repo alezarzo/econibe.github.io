@@ -1,15 +1,7 @@
 eco:
   name: "Alejandra Zarzo Arias"
   avatar: "/assets/images/Serbia2.jpeg"
-  bio: >
-    <div style="text-align:center; font-size:0.95em; line-height:1.6;">
-      La Caixa Junior Leader postdoctoral researcher.<br>
-      InWild research group<br>
-       <a href="https://www.ce3c.pt/research/research-groups/ecology-and-conservation-across-scales/integrative-wildlife-ecology-and-conservation/alejandra-zarzo-arias" target="_blank">
-  CE3C
-  </a>, Universidade de Lisboa.<br>
-      Faculty of Sciences, Universidade de Lisboa
-    </div>  
+  bio: bio: "Junior Leader postdoctoral researcher, La Caixa Foundation. InWild research group, <a href='https://www.ce3c.pt/research/research-groups/ecology-and-conservation-across-scales/integrative-wildlife-ecology-and-conservation/alejandra-zarzo-arias' target='_blank'>CE3C</a>, Universidade de Lisboa. Faculty of Sciences, Universidade de Lisboa."
   links:
     - label: "Cantabrian Brown Bear and Otter Research Group"
       icon: "fab fa-bear"
