@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Publications"
-permalink: /Publications/
+permalink: /publications/
 ---
 
 ## Carnivores
