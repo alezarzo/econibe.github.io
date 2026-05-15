@@ -4,5 +4,3 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
 minimal_mistakes_skin: "default"
-url: "https://alezarzo.github.io"
-baseurl: "/alezarzo"
