@@ -11,11 +11,8 @@ eco:
       Faculty of Sciences, Universidade de Lisboa
     </div>  
   links:
-    - label: "ce3c"
-      icon: "fab fa-github"
-      url: "https://www.ce3c.pt/research/research-groups/ecology-and-conservation-across-scales/integrative-wildlife-ecology-and-conservation/alejandra-zarzo-arias"
-    - label: "GitHub"
-      icon: "fab fa-teddy-bear"
+    - label: "Cantabrian Brown Bear and Otter Research Group"
+      icon: "fab fa-bear"
       url: "https://www.cantabrianbrownbear.org/"
     - label: "Cantabrian Brown Bear and Otter Research Group"
       icon: "fab fa-graduation-cap"
