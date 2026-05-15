@@ -8,9 +8,7 @@ permalink: /projects/
 
 ## Integrating interactions into Species Distribution Models for effective biodiversity conservation
 
-The INTERCON project aims to integrate biotic interactions (such as predation and competition) into SDMs for carnivores, with the goal of producing more accurate predictions to inform and support effective conservation strategies, focusing in the Iberian Peninsula.
-
-https://becarios.fundacionlacaixa.org/en/web/guest/fellows/alejandra-zarzo-arias-B006514
+The [INTERCON] (https://becarios.fundacionlacaixa.org/en/web/guest/fellows/alejandra-zarzo-arias-B006514) project aims to integrate biotic interactions (such as predation and competition) into SDMs for carnivores, with the goal of producing more accurate predictions to inform and support effective conservation strategies, focusing in the Iberian Peninsula.
 
 
 ### Iberia-ENV: Species Distribution Modelling Framework
