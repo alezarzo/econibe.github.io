@@ -2,10 +2,10 @@ main:
   - title: "Home"
     url: /
   - title: "Members"
-    url: /econibe.github.io/members/
+    url: /members/
   - title: "Publications"
-    url: /econibe.github.io//publications/
+    url: /publications/
   - title: "Projects"
-    url: /econibe.github.io//projects/
+    url: /projects/
   - title: "Contact"
-    url: /econibe.github.io//contact/
+    url: /contact/
