@@ -12,3 +12,5 @@ defaults:
       type: "pages"
     values:
       layout: single
+head_scripts:
+  - /assets/css/custom.css
