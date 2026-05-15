@@ -3,17 +3,14 @@ eco:
   avatar: "/assets/images/Serbia2.jpeg"
   
   bio: >
-  Junior Leader postdoctoral researcher, La Caixa Foundation.
-  <br>
-  InWild research group, ce3c.
+    Junior Leader postdoctoral researcher, La Caixa Foundation.<br>
+    InWild research group, ce3c.<br>
 
-  <a href="https://www.ce3c.pt/research/research-groups/ecology-and-conservation-across-scales/integrative-wildlife-ecology-and-conservation/"
-   target="_blank"
-   rel="noopener noreferrer">
-  InWild
-</a>
-
-<br>
+    <a href="https://www.ce3c.pt/research/research-groups/ecology-and-conservation-across-scales/integrative-wildlife-ecology-and-conservation/"
+       target="_blank"
+       rel="noopener noreferrer">
+      InWild
+    </a>
 
   links:
     - label: "Cantabrian Brown Bear and Otter Research Group"
