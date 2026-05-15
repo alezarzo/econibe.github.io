@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Projects"
-url: /projects/
+permalink: /projects/
 
 ---
 # INTERCON 
