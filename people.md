@@ -14,7 +14,7 @@ permalink: /people/
   </div>
   
 <div style="width:150px; text-align:center;">
-    <img src="/assets/images/Hugo2.jpeg" width="120" style="border-radius:50%">
+    <img src="{{ '/assets/images/Hugo2.jpeg' | relative_url }}" width="120" style="border-radius:50%">
     <p><b>Hugo Díez Santaolalla</b><br>PhD student</p>
   </div>
 
