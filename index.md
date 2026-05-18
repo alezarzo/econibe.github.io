@@ -1,12 +1,12 @@
 ---
-layout: home
+layout: single
 title: "EcoNIbe"
 header:
   overlay_image: /assets/images/Tanzania.jpg
   overlay_filter: 0.7
   caption: ""
 author: eco
-author_profile: false
+author_profile: true
 classes: wide
 ---
 
