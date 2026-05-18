@@ -31,7 +31,7 @@ permalink: /people/
 
 # External collaborators
 <div style="width:150px; text-align:center;">
-    <img src="{{ '/assets/images/Hugo2.jpeg' | relative_url }}" width="600" style="border-radius:50%">
+    <img src="{{ '/assets/images/Guille1.jpg' | relative_url }}" width="600" style="border-radius:50%">
     <p><b>Guillermo Fandos</b><br>PhD student</p>
   </div>
 </div>
