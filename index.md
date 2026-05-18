@@ -11,7 +11,7 @@ classes: wide
 ---
 
 <p align="center">
-<img src="/assets/images/Prueba1.jpg">
+<img src="{{ '/assets/images/Prueba1.jpg' | relative_url }}" width="250">
 </p>
 
 I am a "La Caixa" Junior Leader Postdoc in the Conservation Ecology & Society group at CE3C. My research focuses on testing, improving and applying Species Distribution Models (SDMs) to many species at different spatial scales. 
