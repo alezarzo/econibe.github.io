@@ -10,9 +10,6 @@ author_profile: true
 classes: wide
 ---
 
-<p align="center">
-<img src="/assets/images/Prueba1.jpg" width="250">
-</p>
 
 I am a "La Caixa" Junior Leader Postdoc in the Conservation Ecology & Society group at CE3C. My research focuses on testing, improving and applying Species Distribution Models (SDMs) to many species at different spatial scales. 
 For many years I have been involved in terrestrial ecology research using carnivores as model system, with a special focus on conservation and coexistence. I have previously worked as a postdoc in CZU Prague, the National Museum of Natural Sciences (CSIC) Madrid, and Universidad Autónoma de Madrid. I received my Ph.D. in Ecology from the University of Oviedo in 2020 focused on brown bear ecology and conservation.
