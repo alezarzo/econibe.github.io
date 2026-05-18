@@ -6,7 +6,7 @@ header:
   overlay_filter: 0.7
   caption: ""
 author: eco
-author_profile: true
+author_profile: false
 classes: wide
 ---
 <p align="center">
