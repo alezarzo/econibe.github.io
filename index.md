@@ -1,6 +1,5 @@
 ---
 layout: home
-title: "EcoNIbe"
 header:
   overlay_image: /assets/images/Tanzania.jpg
   overlay_filter: 0.7
