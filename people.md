@@ -11,19 +11,19 @@ permalink: /people/
 
   <div style="width:150px; text-align:center;">
     <img src="{{ '/assets/images/Serbia2.jpeg' | relative_url }}" width="600" style="border-radius:50%">
-    <p><b>Alejandra Zarzo Arias</b><br>Group leader</p>
+    <p><b>Alejandra Zarzo Arias</b><br></p>
   </div>
 </div>
 
 # PhD students  
 <div style="width:150px; text-align:center;">
     <img src="{{ '/assets/images/Hugo2.jpeg' | relative_url }}" width="600" style="border-radius:50%">
-    <p><b>Hugo Díez Santaolalla</b><br>PhD student</p>
+    <p><b>Hugo Díez Santaolalla</b><br></p>
   </div>
 
 # Master students
 <div style="width:150px; text-align:center;">
-    <img src="{{ '/assets/images/Hugo2.jpeg' | relative_url }}" width="600" style="border-radius:50%">
+    <img src="{{ '/assets/images/.jpeg' | relative_url }}" width="600" style="border-radius:50%">
     <p><b>Guilherme Mendes</b><br></p>
   </div>
 
