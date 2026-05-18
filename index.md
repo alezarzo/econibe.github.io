@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "EcoNIbe"
 header:
   overlay_image: /assets/images/Tanzania.jpg
