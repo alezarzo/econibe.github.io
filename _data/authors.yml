@@ -6,15 +6,16 @@ eco:
     Junior Leader postdoctoral researcher, La Caixa Foundation.<br>
     <a href="https://www.ce3c.pt/research/research-groups/ecology-and-conservation-across-scales/integrative-wildlife-ecology-and-conservation/"
        target="_blank"
-       rel="noopener noreferrer">
+       rel="noopener noreferrer"
+       style="color:#2a7ae2; font-weight:600;>
       InWild
     </a> research group, ce3c.
 
   links:
     - label: "Cantabrian Brown Bear and Otter Research Group"
-      icon: "fab fa-paw"
+      icon: "fas fa-paw"
       url: "https://www.cantabrianbrownbear.org/"
     - label: "Google Scholar"
-      icon: "fab fa-graduation-cap"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.es/citations?user=wCbADsgAAAAJ&hl=es"
   
