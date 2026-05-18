@@ -1,5 +1,6 @@
 ---
 layout: home
+title: "EcoNIbe"
 header:
   overlay_image: /assets/images/Tanzania.jpg
   overlay_filter: 0.7
@@ -9,7 +10,7 @@ author_profile: true
 classes: wide
 ---
 <p align="center">
-<img src="/assets/images/Serbia2.jpeg" width="280" style="border-radius:50%;">
+<img src="/assets/images/Serbia2.jpeg">
 </p>
 
 I am a "La Caixa" Junior Leader Postdoc in the Conservation Ecology & Society group at CE3C. My research focuses on testing, improving and applying Species Distribution Models (SDMs) to many species at different spatial scales. 
