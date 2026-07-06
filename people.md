@@ -12,7 +12,8 @@ permalink: /people/
   <div style="width:150px; text-align:center;">
     <img src="{{ '/assets/images/Serbia2.jpeg' | relative_url }}" 
       style="width:120px; height:120px; border-radius:50%; object-fit:cover;">
-    <p><b>Alejandra Zarzo Arias</b><br></p>
+    <p><b>Alejandra Zarzo Arias</b><br>
+      <span style="font-size:0.8em; color:gray;">Universidade de Lisboa, ce3c</span></p>
   </div>
 </div>
 
@@ -23,14 +24,14 @@ permalink: /people/
     <img src="{{ '/assets/images/Miguel.jpg' | relative_url }}" 
       style="width:120px; height:120px; border-radius:50%; object-fit:cover;">
     <p><b>Luis Miguel Rosalino</b><br>
-      <span style="font-size:0.85em; color:gray;">Universidade de Lisboa, ce3c</span></p>
+      <span style="font-size:0.8em; color:gray;">Universidade de Lisboa, ce3c</span></p>
   </div>
     
   <div style="width:150px; text-align:center;">
     <img src="{{ '/assets/images/Guille1.jpg' | relative_url }}" 
       style="width:120px; height:120px; border-radius:50%; object-fit:cover;">
     <p><b>Guillermo Fandos</b><br>
-      <span style="font-size:0.85em; color:gray;">Universidad Complutense de Madrid</span></p>
+      <span style="font-size:0.8em; color:gray;">Universidad Complutense de Madrid</span></p>
   </div>
   
  </div>
@@ -40,7 +41,8 @@ permalink: /people/
   <div style="width:150px; text-align:center;">
     <img src="{{ '/assets/images/Hugo2.jpeg' | relative_url }}" 
       style="width:120px; height:120px; border-radius:50%; object-fit:cover;">
-    <p><b>Hugo Díez Santaolalla</b><br></p>
+    <p><b>Hugo Díez Santaolalla</b><br>
+    <span style="font-size:0.8em; color:gray;">Universidade de Lisboa, ce3c</span></p>
   </div>
 </div>
 
@@ -48,7 +50,8 @@ permalink: /people/
 <div style="width:150px; text-align:center;">
     <img src="{{ '/assets/images/.jpeg' | relative_url }}" 
       style="width:120px; height:120px; border-radius:50%; object-fit:cover;">
-    <p><b>Guilherme Mendes</b><br></p>
+    <p><b>Guilherme Mendes</b><br>
+    <span style="font-size:0.8em; color:gray;">Universidade de Lisboa</span></p>
   </div>
 
 # External collaborators
@@ -57,31 +60,36 @@ permalink: /people/
   <div style="width:150px; text-align:center;">
     <img src="{{ '/assets/images/Ruben.jpg' | relative_url }}"
          style="width:120px; height:120px; border-radius:50%; object-fit:cover;">
-    <p><b>Rubén G. Mateo</b><br>Universidad Autónoma de Madrid</p>
+    <p><b>Rubén G. Mateo</b><br>
+      <span style="font-size:0.8em; color:gray;">Universidad Autónoma de Madrid</span></p>
   </div>
   
    <div style="width:150px; text-align:center;">
     <img src="{{ '/assets/images/Jennifer.jpg' | relative_url }}"
          style="width:120px; height:120px; border-radius:50%; object-fit:cover;">
-    <p><b>Jennifer Morales Barbero</b><br>Universidad Autónoma de Madrid</p>
+    <p><b>Jennifer Morales Barbero</b><br>
+      <span style="font-size:0.8em; color:gray;">Universidad Autónoma de Madrid</span></p>
   </div>
 
   <div style="width:150px; text-align:center;">
     <img src="{{ '/assets/images/Mario.jpg' | relative_url }}"
          style="width:120px; height:120px; border-radius:50%; object-fit:cover;">
-    <p><b>Mario Mingarro </b><br>Museo Nacional de Ciencias Naturales (CSIC)</p>
+    <p><b>Mario Mingarro </b><br>
+      <span style="font-size:0.8em; color:gray;">Museo Nacional de Ciencias Naturales (CSIC)</span></p>
   </div>
   
   <div style="width:150px; text-align:center;">
     <img src="{{ '/assets/images/Teresa.jpg' | relative_url }}"
          style="width:120px; height:120px; border-radius:50%; object-fit:cover;">
-    <p><b>Teresa Goicolea</b><br>Museo Nacional de Ciencias Naturales (CSIC)</p>
+    <p><b>Teresa Goicolea</b><br>
+      <span style="font-size:0.8em; color:gray;">Museo Nacional de Ciencias Naturales (CSIC)</span></p>
   </div>
   
   <div style="width:150px; text-align:center;">
     <img src="{{ '/assets/images/PLucas.jpg' | relative_url }}"
          style="width:120px; height:120px; border-radius:50%; object-fit:cover;">
-    <p><b>Pablo M. Lucas</b><br>Universidad de Sevilla</p>
+    <p><b>Pablo M. Lucas</b><br>
+      <span style="font-size:0.8em; color:gray;">Universidad de Sevilla</span></p>
   </div>
   
   <div style="width:150px; text-align:center;">
