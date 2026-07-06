@@ -28,7 +28,15 @@ permalink: /people/
   </div>
 
 # External collaborators
-<div style="width:150px; text-align:center;">
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+  
+  <div style="width:150px; text-align:center;">
     <img src="{{ '/assets/images/Guille1.jpg' | relative_url }}" width="600" style="border-radius:50%">
     <p><b>Guillermo Fandos</b><br>Universidad Complutense de Madrid</p>
+  </div>
+  <div style="width:150px; text-align:center;">
+    <img src="{{ '/assets/images/Ruben.jpg' | relative_url }}"
+         width="120" height="120"
+         style="border-radius:50%; object-fit:cover;">
+    <p><b>Rubén García Mateo</b><br>Universidad Autónoma de Madrid</p>
   </div>
