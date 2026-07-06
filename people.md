@@ -46,3 +46,17 @@ permalink: /people/
          style="border-radius:50%; object-fit:cover;">
     <p><b>Rubén García Mateo</b><br>Universidad Autónoma de Madrid</p>
   </div>
+  
+  <div style="width:150px; text-align:center;">
+    <img src="{{ '/assets/images/Teresa.jpeg' | relative_url }}"
+         width="120" height="120"
+         style="border-radius:50%; object-fit:cover;">
+    <p><b>Teresa Goicolea</b><br>Museo Nacional de Ciencias Naturales (CSIC)d</p>
+  </div>
+  
+  <div style="width:150px; text-align:center;">
+    <img src="{{ '/assets/images/Jennifer.jpg' | relative_url }}"
+         width="120" height="120"
+         style="border-radius:50%; object-fit:cover;">
+    <p><b>Jennifer Morales Barbero</b><br>Universidad Autónoma de Madrid</p>
+  </div>
