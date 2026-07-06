@@ -9,9 +9,9 @@ permalink: /people/
 # Group leader
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
 
-  <div style="width:200px; text-align:center;">
-    <img src="{{ '/assets/images/Serbia2.jpeg' | relative_url }}" 
-      style="width:200px; height:200px; border-radius:50%; object-fit:cover;">
+  <div style="width:300px; text-align:center;">
+    <img src="{{ '/assets/images/Ale2.jpeg' | relative_url }}" 
+      style="width:300px; height:300px; border-radius:50%; object-fit:cover;">
     <p><b>Alejandra Zarzo Arias</b><br>
       <span style="font-size:0.8em; color:gray;">Universidade de Lisboa, ce3c</span></p>
   </div>
