@@ -29,6 +29,6 @@ In my research group, we explore the effect on species’ distributions of preda
 
 
 - ## Explore the site
-- [People]({{ "/people/" | relative_url }})
-- [Projects]({{ "/projects/" | relative_url }})
-- [Publications]({{ "/publications/" | relative_url }})
+- [People](/econibe.github.io/people)
+- [Projects](/econibe.github.io/projects)
+- [Publications](/econibe.github.io/publications)
