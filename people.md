@@ -61,7 +61,7 @@ permalink: /people/
   </div>
 
     <div style="width:150px; text-align:center;">
-    <img src="{{ '/assets/images/Mario.jpg' | relative_url }}"
+    <img src="{{ '/assets/images/Mario.jfij' | relative_url }}"
          width="120" height="120"
          style="border-radius:50%; object-fit:cover;">
     <p><b>Mario Mingarro </b><br>Museo Nacional de Ciencias Naturales (CSIC)</p>
