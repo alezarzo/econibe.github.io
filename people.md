@@ -95,7 +95,7 @@ permalink: /people/
   <div style="width:150px; text-align:center;">
     <img src="{{ '/assets/images/Vasco.jpeg' | relative_url }}"
          style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
-    <p><b>Vasco Valdez</b><br>ce3c</p>
+    <p><b>Vasco Valdez</b><br>Universidade de Lisboa, ce3c</p>
   </div>
 
   </div>
