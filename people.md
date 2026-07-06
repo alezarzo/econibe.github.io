@@ -75,7 +75,7 @@ permalink: /people/
   </div>
   
   <div style="width:150px; text-align:center;">
-    <img src="{{ '/assets/images/Vasco.jpg' | relative_url }}"
+    <img src="{{ '/assets/images/Vasco.jpeg' | relative_url }}"
          width="120" height="120"
          style="border-radius:50%; object-fit:cover;">
     <p><b>Vasco Valdez</b><br>ce3c</p>
