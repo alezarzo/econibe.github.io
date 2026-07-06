@@ -22,13 +22,15 @@ permalink: /people/
   <div style="width:150px; text-align:center;">
     <img src="{{ '/assets/images/Miguel.jpg' | relative_url }}" 
       style="width:120px; height:120px; border-radius:50%; object-fit:cover;">
-    <p><b>Luis Miguel Rosalino</b><br></p>
+    <p><b>Luis Miguel Rosalino</b><br>
+      <span style="font-size:0.85em; color:gray;">Universidade de Lisboa, ce3c</span></p>
   </div>
     
   <div style="width:150px; text-align:center;">
     <img src="{{ '/assets/images/Guille1.jpg' | relative_url }}" 
       style="width:120px; height:120px; border-radius:50%; object-fit:cover;">
-    <p><b>Guillermo Fandos</b><br>Universidad Complutense de Madrid</p>
+    <p><b>Guillermo Fandos</b><br>
+      <span style="font-size:0.85em; color:gray;">Universidad Complutense de Madrid</span></p>
   </div>
   
  </div>
