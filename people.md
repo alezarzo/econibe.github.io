@@ -15,6 +15,12 @@ permalink: /people/
   </div>
 </div>
 
+# Researcher team 
+<div style="width:150px; text-align:center;">
+    <img src="{{ '/assets/images/Miguel.jpg' | relative_url }}" width="600" style="border-radius:50%">
+    <p><b>Luis Miguel Rosalino</b><br></p>
+  </div>
+  
 # PhD students  
 <div style="width:150px; text-align:center;">
     <img src="{{ '/assets/images/Hugo2.jpeg' | relative_url }}" width="600" style="border-radius:50%">
