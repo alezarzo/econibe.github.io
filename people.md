@@ -10,7 +10,8 @@ permalink: /people/
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
 
   <div style="width:150px; text-align:center;">
-    <img src="{{ '/assets/images/Serbia2.jpeg' | relative_url }}" width="600" style="border-radius:50%">
+    <img src="{{ '/assets/images/Serbia2.jpeg' | relative_url }}" 
+      style="width:120px; height:120px; border-radius:50%; object-fit:cover;">
     <p><b>Alejandra Zarzo Arias</b><br></p>
   </div>
 </div>
@@ -35,14 +36,16 @@ permalink: /people/
 # PhD students  
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
   <div style="width:150px; text-align:center;">
-    <img src="{{ '/assets/images/Hugo2.jpeg' | relative_url }}" width="600" style="border-radius:50%">
+    <img src="{{ '/assets/images/Hugo2.jpeg' | relative_url }}" 
+      style="width:120px; height:120px; border-radius:50%; object-fit:cover;">
     <p><b>Hugo Díez Santaolalla</b><br></p>
   </div>
 </div>
 
 # Master students
 <div style="width:150px; text-align:center;">
-    <img src="{{ '/assets/images/.jpeg' | relative_url }}" width="600" style="border-radius:50%">
+    <img src="{{ '/assets/images/.jpeg' | relative_url }}" 
+      style="width:120px; height:120px; border-radius:50%; object-fit:cover;">
     <p><b>Guilherme Mendes</b><br></p>
   </div>
 
