@@ -57,7 +57,7 @@ permalink: /people/
     <img src="{{ '/assets/images/Teresa.jpg' | relative_url }}"
          width="120" height="120"
          style="border-radius:50%; object-fit:cover;">
-    <p><b>Teresa Goicolea</b><br>Museo Nacional de Ciencias Naturales (CSIC)d</p>
+    <p><b>Teresa Goicolea</b><br>Museo Nacional de Ciencias Naturales (CSIC)</p>
   </div>
   
   <div style="width:150px; text-align:center;">
