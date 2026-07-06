@@ -29,6 +29,6 @@ In my research group, we explore the effect on species’ distributions of preda
 
 
 - ## Explore the site
-- [People](/people/)
-- [Projects](/projects/)
-- [Publications](/publications/)
+- [People]({{ site.baseurl }}/people/)
+- [Projects]({{ site.baseurl }}/projects/)
+- [Publications]({{ site.baseurl }}/publications/)
