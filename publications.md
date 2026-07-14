@@ -2,8 +2,9 @@
 layout: home
 title: "Publications"
 permalink: /publications/
+classes: wide
 ---
-<div style="text-align: justify;">
+
 
 ## Preprints
 
@@ -12,6 +13,7 @@ permalink: /publications/
 
 
 ## 2026
+
 
 ## 2025
 
@@ -96,5 +98,3 @@ permalink: /publications/
 - Penteriani, V., Delgado, M. M., Krofel, M., Jerina, K., Ordiz, A., Dalerum, F., Kojola, I., **Zarzo-Arias, A.** & Bombieri, G. (2018). Evolutionary and ecological traps for brown bears Ursus arctos in human‐modified landscapes. Mammal Review, 48(3), 180-193. DOI: [](https://doi.org/10.1111/mam.12123).
 
 - Penteriani, V., **Zarzo-Arias, A.**, Bombieri, G., Cañedo, D., Díaz García, J., Delgado, M. M., Peón Torre, P., Fernández Otero, M., Vázquez García, P., Vázquez, V. M. & Sánchez Corominas, T. (2018). Density and reproductive characteristics of female brown bears in the Cantabrian Mountains, NW Spain. The European Zoological Journal, 85(1), 312-320. DOI: [10.1080/24750263.2018.1499826](https://doi.org/10.1080/24750263.2018.1499826).
-
-</div>
