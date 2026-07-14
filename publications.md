@@ -2,6 +2,7 @@
 layout: home
 title: "Publications"
 permalink: /publications/
+classes: wide
 ---
 
 ## Preprints
