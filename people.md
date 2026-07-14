@@ -2,6 +2,7 @@
 layout: home
 title: "People"
 permalink: /people/
+author_profile: false
 ---
 
 ### EcoNIb team
