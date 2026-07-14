@@ -15,6 +15,8 @@ classes: wide
 
 ## 2026
 
+## 2025
+
 - **Zarzo-Arias, A.**, Heeres, R. W., Hertel, A. G., Leclerc, M., Frank, S. C., Steyaert, S. M. J. G., Kindberg, J., Swenson, J. E., Penteriani, V., Pelletier, F. & Zedrosser, A.(2025). The landscape of love” – sex-specific habitat-use during the mating season in a solitary large carnivore. Landscape Ecology, 40:222. DOI: [10.1007/s10980-025-02250-6](https://doi.org/10.1007/s10980-025-02250-6)
 
 - Penteriani, V., González-Bernardo, E., Díaz, D., Benjumea, R., González González, M. A., Prado Iglesias, A.,  **Zarzo-Arias, A.**, García-Sánchez, P., Torres-Romero, E. J., Russo, L. F. & Delgado, M. M. (2025). Diel activity patterns of a semi-aquatic carnivore in human-modified landscapes: insights from European otter behaviour. Animal Behaviour,  228, 123312. DOI: [10.1016/j.anbehav.2025.123312](https://doi.org/10.1016/j.anbehav.2025.123312).
@@ -29,6 +31,8 @@ classes: wide
   
 - Thumsová, B., **Zarzo-Arias, A.**, Roces-Díaz, J., Martinez-Silvestre, A., Rohr, J. & Bosch, J. (2025). Ecological niche models based on occurrence records of the amphibian chytrid fungus overestimate lethal chytridiomycosis risk. Journal of Applied Ecology, 62:995–1006. DOI: [10.1111/1365-2664.70022](https://doi.org/10.1111/1365-2664.70022).
 
+## 2024
+
 - Vazquez-Garcia, P., **Zarzo-Arias, A.**, Vigón, E., Alambiaga, I. & Monros, J. S. (2024). Modelling the distribution and habitat suitability of the European wildcat (Felis silvestris) in the Principality of Asturias (NW Spain) and its conservation implications. Animals, 14(18), 2708.  DOI: [10.3390/ani14182708](https://doi.org/10.3390/ani14182708).
 
 - Vaz, S., Ronquillo, C., Sobral-Souza, T., Hortal, J. & **Zarzo-Arias, A.** (2024). Casting light out of shadows: assessing the coverage of data on endemic firefly distribution in the Atlantic Forest. Global Ecology and Conservation, 54, e03169. DOI: [](https://doi.org/10.1016/j.gecco.2024.e03169).
@@ -41,6 +45,8 @@ classes: wide
   
 - Penteriani, V., Ilpo Kojola, I., Heikkinen, S., Find’o, S., Skuban, M., Fedorca, A., García-Sánchez, P., **Zarzo-Arias, A.**, Balbontín, J. & Delgado, M. M. (2024). Livin' on the edge: Reducing sexually-selected infanticide risk by proximity to potential mates. Animal Behaviour, 210: 63-71. DOI: [](https://doi.org/10.1016/j.anbehav.2024.01.021).
 
+## 2023
+
 - Bogdanović, N., Zedrosser, A., Hertel, A. G., **Zarzo-Arias, A.*** & Ćirović, D*. (2023). Where to go? Habitat preferences and connectivity at a crossroad of European brown bear metapopulations. Global Ecology and Conservation, 43, e02460. DOI: [](https://doi.org/10.1016/j.gecco.2023.e02460).
 
 - Vaz, S., Mendes, M., Khattar, G., Macedo, M., Ronquillo, C., **Zarzo-Arias, A.**, Hortal, J. & Silveira, L. (2023). Firefly (Coleoptera: Lampyridae) species from the Atlantic Forest hotspot, Brazil. Biodiversity Data Journal, 11: e101000. DOI: [](https://doi.org/10.3897/BDJ.11.e101000).
@@ -48,6 +54,8 @@ classes: wide
 - Gábor, L., Jetz, W., **Zarzo-Arias, A.**, Winner, K., Yanco, S., Pinkert, S., Marsh, C. J., Mäkinen, J., Rocchini, D., Barták, V., Malavasi, M. & Moudrý, V. (2023). Species distribution models affected by positional uncertainty in species occurrences can still be ecologically interpretable. Ecography, e06358. DOI: [](https://doi.org/10.1111/ecog.06358).
 
 - Moudrý, V., Keil, P., Cord., A, Gábor, L., Lecours, V., **Zarzo-Arias, A.**, Barták, V., Malavasi, M., Rocchini, D., Torresani, M., Gdulova, K., Grattarola, F., Leroy, F., Marchetto, E., Prosek, J., Thouverai, E., Wild, J. & Šímová, P. (2023) Scale mismatches of predictors and responses in species distribution modelling: review of good practices for proper grain selection. Progress in Physical Geography: Earth and Environment, 47(3), 467-482. DOI: [](https://doi.org/10.1177/03091333231156362).
+
+## 2022
 
 - Helman, A., **Zarzo-Arias, A.** & Penteriani, V. (2022). Understanding potential responses of large carnivore to climate change. Hystrix, In press. DOI: [](https://doi.org/10.4404/hystrix-00544-2022).
   
@@ -63,11 +71,15 @@ classes: wide
 
 - Gábor, L., Šímová, P., Keil, P., **Zarzo-Arias, A.**, Marsh, C., Rocchini, D., Malavasi, M., Barták, V. & Moudrý, V. (2022). Habitats as predictors in species distribution models: Shall we use continuous or binary data?. Ecography, e06022. DOI: [](https://doi.org/10.1111/ecog.06022).
 
+## 2021
+
 - **Zarzo‐Arias, A.**, Delgado, M. M., Palazón, S., Afonso Jordana, I., Bombieri, G., González‐Bernardo, E., Ordiz, A., Bettega, C., García González, R. & Penteriani, V. (2021). Seasonality, local resources and environmental factors influence patterns of brown bear damages: Implications for management. Journal of Zoology, 313(1), 1-17. DOI: [](https://doi.org/10.1111/jzo.12839).
 
 - González-Bernardo, E., Bagnasco, C., Bombieri, G., **Zarzo-Arias, A.**, Ruiz-Villar, H., Morales-González, A., Lamamy, C., Ordiz, A., Cañedo, D., Díaz García, J., Chamberlain, D. E. & Penteriani, V. (2021). Rubbing behavior of European brown bears: factors affecting rub tree selectivity and density. Journal of mammalogy, 102(2), 468-480. DOI: [](https://doi.org/10.1093/jmammal/gyaa170).
 
 - Penteriani, V.**, **Zarzo-Arias, A.***, Delgado, M. M., Dalerum, F., Gurarie, E., Peón Torre, P., Sánchez Corominas, T., Vázquez, V. M., Vázquez-García, P. & Ordiz, A. (2020). Female brown bears use areas with infanticide risk in a spatially confined population. Ursus, 2020(31e2), 1-9. DOI: [](https://doi.org/10.2192/URSUS-D-18-00019R4).  [1st authorship shared]
+
+## 2019
 
 - Lamamy, C., Bombieri, G., **Zarzo-Arias, A.**, González-Bernardo, E., & Penteriani, V. (2019). Can landscape characteristics help explain the different trends of Cantabrian brown bear subpopulations?. Mammal Research, 64(4), 559-567. DOI: [](https://doi.org/10.1007/s13364-019-00440-7).
 
@@ -78,6 +90,8 @@ classes: wide
 - **Zarzo-Arias, A.**, Penteriani, V., Delgado, M. M., Peón Torre, P., García-González, R., Mateo-Sánchez, M. C., Vázquez García, P. & Dalerum, F. (2019). Identifying potential areas of expansion for the endangered brown bear (Ursus arctos) population in the Cantabrian Mountains (NW Spain). PloS one, 14(1), e0209972. DOI: [](https://doi.org/10.1371/journal.pone.0209972).
 
 - **Zarzo-Arias, A.**, Romo, H., Moreno, J. C., & Munguira, M. L. (2019). Distribution models of the Spanish argus and its food plant, the storksbill, suggest resilience to climate change. Animal Biodiversity and Conservation, 42(1), 45-57. DOI: [](https://doi.org/10.32800/abc.2019.42.0045).
+
+## 2018
 
 - **Zarzo-Arias, A.**, Delgado, M. M., Ordiz, A., Díaz, J. G., Cañedo, D., González, M. A., Romo, C., Vázquez García, P., Bombieri, G., Bettega, C., Russo, L. F., Cabral, P., García-González, R., Martínez-Padilla, J. & Penteriani, V. (2018). Brown bear behaviour in human-modified landscapes: The case of the endangered Cantabrian population, NW Spain. Global Ecology and Conservation, 16, e00499. DOI: [](https://doi.org/10.1016/j.gecco.2018.e00499).
 
