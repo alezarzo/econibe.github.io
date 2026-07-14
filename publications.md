@@ -2,12 +2,10 @@
 layout: home
 title: "Publications"
 permalink: /publications/
-classes: wide
 ---
 <div style="text-align: justify;">
 
 ## Preprints
-
 
 
 ## In Press
