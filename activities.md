@@ -11,7 +11,7 @@ classes: wide
 
 # Course Introduction to basic Species Distribution Models 
 
-<img src="/econibe.github.io/assets/images/Oct26_CursoSDM"
+<img src="/econibe.github.io/assets/images/Oct26_CursoSDM.png"
      alt="Oct26_CursoSDM"
      style="width: 100%; max-width: 600px; display: block; margin: 20px auto;">
      
