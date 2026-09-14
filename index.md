@@ -47,3 +47,4 @@ In my research group, we explore the effect on species’ distributions of preda
 - [People](/econibe.github.io/people)
 - [Projects](/econibe.github.io/projects)
 - [Publications](/econibe.github.io/publications)
+- [Activities](/econibe.github.io/activities)
