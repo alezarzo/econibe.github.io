@@ -9,8 +9,7 @@ header:
 classes: wide
 ---
 
-# INTERCON 
-## Integrating interactions into Species Distribution Models for effective biodiversity conservation
+# Course Introduction to basic Species Distribution Models 
 
 The course <a href="https://www.ce3c.pt/en/agenda/advanced-courses/introduction-to-basic-species-distribution-models-2026-2027"
        target="_blank"
