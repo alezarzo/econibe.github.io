@@ -9,7 +9,7 @@ header:
 classes: wide
 ---
 
-# Course Introduction to basic Species Distribution Models
+# Course <a href=" https://www.ce3c.pt/en/agenda/advanced-courses/introduction-to-basic-species-distribution-models-2026-2027"        target="_blank" rel="noopener noreferrer"> Introduction to basic Species Distribution Models </a>
 
 <img src="/econibe.github.io/assets/images/Oct26_CursoSDM.png"
      alt="Oct26_CursoSDM"
