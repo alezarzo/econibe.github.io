@@ -12,6 +12,8 @@ classes: wide
 # INTERCON 
 ## Integrating interactions into Species Distribution Models for effective biodiversity conservation
 
+Principal Investigator (PI): Alejandra Zarzo Arias
+
 The <a href="https://becarios.fundacionlacaixa.org/en/web/guest/fellows/alejandra-zarzo-arias-B006514"
        target="_blank"
        rel="noopener noreferrer"> INTERCON
@@ -69,3 +71,20 @@ Development of reproducible pipelines for biodiversity prediction.
 <img src="/econibe.github.io/assets/images/StoatSDM.jpg"
      alt="Stoat graph"
      style="width: 100%; max-width: 600px; display: block; margin: 20px auto;">
+
+
+
+# Mostela Cassanova 
+## Human-induced drivers of carnivore activity and community structure in Lisbon’s natural areas (Ayuda Jorge G. Casanovas 2026 SECEM)
+
+Principal Investigators (PI): Hugo Díez Santaolalla & Vasco Valdez
+
+<img src="/econibe.github.io/assets/images/Equipo2.jpeg"
+     alt="Equipo2"
+     style="width: 100%; max-width: 600px; display: block; margin: 20px auto;">
+<img src="/econibe.github.io/assets/images/MostelaCasanova.jpeg"
+     alt="MostelaCasanova"
+     style="width: 100%; max-width: 600px; display: block; margin: 20px auto;">
+
+     
+This project aims to investigate the distribution and ecology of carnivores across the Lisbon metropolitan area, including protected areas surrounded by increasingly human-modified landscapes. By improving our understanding of where these species occur and how they respond to environmental and human pressures, the project seeks to support evidence-based conservation and the long-term protection of native biodiversity.
