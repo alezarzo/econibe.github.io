@@ -74,7 +74,7 @@ Development of reproducible pipelines for biodiversity prediction.
 
 
 
-# Mostela Cassanova 
+# Mostela Casanova 
 ## Human-induced drivers of carnivore activity and community structure in Lisbon’s natural areas (Ayuda Jorge G. Casanovas 2026 SECEM)
 
 Principal Investigators (PI): Hugo Díez Santaolalla & Vasco Valdez
