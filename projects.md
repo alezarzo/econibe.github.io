@@ -49,7 +49,7 @@ We are currently developing a pool of variables at a 10km and 1km grid resolutio
      style="width: 100%; max-width: 600px; display: block; margin: 20px auto;">
 
      
-Wildlife monitoring using camera trap networks to study and update the distribution and knowledge of the stoat in the Cantabrian Mountains and the Pyrenees. We will focus on:
+Wildlife monitoring using camera trap networks to study and update the distribution and knowledge of the stoat. We will focus on:
 
 - Developing SDMs with prey distribution
 - Sample with camera and mostela traps grids with high predicted probability of presence
